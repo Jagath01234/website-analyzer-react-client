@@ -23,7 +23,7 @@ A frontend client supporting the APIs of this service can be found in the  https
 - Run using `npm run dev`
 
 ## Usage
-- Add the target website URl in the given text box and press submit button. `https://github.com/Jagath01234/website-analyzer` project should be running to serve the request in the backend.
+- Add the target website URl in the given text box and press submit button. https://github.com/Jagath01234/website-analyzer project should be running to serve the request in the backend.
 - Result will appear after some time with the basic analysis details for the given target URL.
 - ![img.png](img.png)
 
